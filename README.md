@@ -8,8 +8,13 @@ I'm a Full Stack Software Developer based in Quezon City, Philippines; who speci
 - Building Web systems and applications
 - Creating iOS mobile applications
 
-Have a project or collaboration you'd like to discuss? Feel free to contact me via these links provided below:
+<p align="center">
+  <a href="https://github.com/tenshiAMD">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tenshiAMD&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" />
+  </a>
+</p>
 
+-----
 <div align=center>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.tenshiamd@gmail.com?subject="Hello")](mailto:dev.tenshiamd@gmail.com?subject="Hello")
