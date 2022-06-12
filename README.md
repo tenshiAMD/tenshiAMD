@@ -17,7 +17,7 @@ I'm a Full Stack Software Developer based in Quezon City, Philippines; who speci
 
 <p align="center">
   <a href="https://github.com/tenshiAMD">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?username=tenshiAMD" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tenshiAMD&type=png" />
   </a>
 </p>
 
