@@ -10,7 +10,7 @@ I'm a Full Stack Software Developer based in Quezon City, Philippines; who speci
 
 <p align="center">
   <a href="https://github.com/tenshiAMD">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tenshiAMD&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tenshiAMD&show_icons=true&theme=graywhite&count_private=true" />
   </a>
 </p>
 
