@@ -21,6 +21,12 @@ I'm a Full Stack Software Developer based in Quezon City, Philippines; who speci
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/tenshiAMD">
+    <img alt="GitHub Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenshiAMD&show_icons=true&locale=en&layout=compact" />
+  </a>
+</p>
+
 -----
 <div align=center>
 
