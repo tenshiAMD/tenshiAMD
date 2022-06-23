@@ -17,6 +17,7 @@ I'm a Full Stack Software Developer based in Quezon City, Philippines; who speci
 - Collaborating in open-source projects
 - Building web systems and applications
 - Creating mobile applications (iOS and Android)
+- Reverse engineering softwares, applications and processes
 
 -----
 
