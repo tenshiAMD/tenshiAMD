@@ -35,11 +35,16 @@ I'm a Full Stack Software Developer based in Quezon City, Philippines; who speci
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/tenshiAMD">
-    <img alt="GitHub Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenshiAMD&show_icons=true&locale=en&layout=compact" />
-  </a>
-</p>
+<div align="center">
+  <p>
+    <a href="https://github.com/tenshiAMD">
+      <img alt="GitHub Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenshiAMD&show_icons=true&locale=en&layout=compact" />
+    </a>
+    <br>
+    <br>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+  </p>
+</div>
 
 -----
 
