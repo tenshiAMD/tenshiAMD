@@ -24,6 +24,12 @@ I'm a Full Stack Software Developer based in Quezon City, Philippines; who speci
 <br>
 
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="GitHub Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=tenshiamd&column=8&theme=gruvbox" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/tenshiAMD">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tenshiAMD&show_icons=true&theme=graywhite&count_private=true" />
   </a>
