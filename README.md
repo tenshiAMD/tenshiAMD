@@ -29,6 +29,8 @@ I'm a Full Stack Software Developer based in Quezon City, Philippines; who speci
   </a>
 </p>
 
+-----
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tenshiAMD&show_icons=true&theme=graywhite&count_private=true" />
@@ -40,6 +42,8 @@ I'm a Full Stack Software Developer based in Quezon City, Philippines; who speci
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tenshiAMD&type=png" />
   </a>
 </p>
+
+-----
 
 <div align="center">
   <p>
