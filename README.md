@@ -30,20 +30,20 @@ I'm a Full Stack Software Developer based in Quezon City, Philippines; who speci
 </p>
 
 <p align="center">
-  <a href="https://github.com/tenshiAMD">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tenshiAMD&show_icons=true&theme=graywhite&count_private=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/tenshiAMD">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tenshiAMD&type=png" />
   </a>
 </p>
 
 <div align="center">
   <p>
-    <a href="https://github.com/tenshiAMD">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="GitHub Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenshiAMD&show_icons=true&locale=en&layout=compact" />
     </a>
     <br>
