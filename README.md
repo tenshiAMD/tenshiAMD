@@ -33,13 +33,13 @@ I'm a Full Stack Software Developer based in Quezon City, Philippines; who speci
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tenshiAMD&show_icons=true&theme=graywhite&count_private=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tenshiAMD&show_icons=true&theme=graywhite&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tenshiAMD&type=svg" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tenshiAMD&theme=hacker&type=svg" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@ I'm a Full Stack Software Developer based in Quezon City, Philippines; who speci
 <div align="center">
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="GitHub Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenshiAMD&show_icons=true&locale=en&layout=compact" />
+      <img alt="GitHub Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=tenshiAMD&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
     </a>
     <br>
     <br>
