@@ -55,6 +55,11 @@ I'm a Full Stack Software Developer based in Quezon City, Philippines; who speci
 
 -----
 
+![GitHub Snake Light](dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](dist/github-snake-dark.svg#gh-dark-mode-only)
+
+-----
+
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FtenshiAMD)](https://hits.seeyoufarm.com)
