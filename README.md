@@ -55,6 +55,10 @@ I'm a Full Stack Software Developer based in Quezon City, Philippines; who speci
 
 -----
 
+[![tenshiAMD's github activity graph](https://activity-graph.herokuapp.com/graph?username=tenshiAMD&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+-----
+
 ![GitHub Snake Light](dist/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](dist/github-snake-dark.svg#gh-dark-mode-only)
 
