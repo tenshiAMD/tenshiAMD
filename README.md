@@ -8,10 +8,10 @@
 
 </div>
 
-<details>
-  <summary><h4>About Me</h4></summary>
+<details open>
+  <summary>About Me</summary>
   
-  ## Greetings, I'm Angel Aviel Domaoan.
+  ### Greetings, I'm Angel Aviel Domaoan.
   
   I'm a Full Stack Software Developer based in Quezon City, Philippines; who specializes in:
 
@@ -22,19 +22,27 @@
   - Creating mobile applications (iOS and Android)
   - Reverse engineering softwares, applications and processes
 
+  -----
+  
 </details>
 
------
+<details open>
+  <summary>Achievements</summary>
 
-<br>
+  <br>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="GitHub Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=tenshiamd&column=6&row=2&theme=gruvbox" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img alt="GitHub Profile Trophies" src="https://github-profile-trophy.vercel.app/?username=tenshiamd&column=6&row=2&theme=gruvbox" />
+    </a>
+  </p>
 
------
+  -----
+  
+</details>
+
+<details open>
+  <summary>Metrics</summary>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -43,7 +51,7 @@
 </p>
 
 -----
-
+  
 <div align="center">
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -63,6 +71,8 @@
 [![tenshiAMD's github activity graph](https://activity-graph.herokuapp.com/graph?username=tenshiAMD&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 -----
+
+</details>
 
 ![GitHub Snake Light](dist/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](dist/github-snake-dark.svg#gh-dark-mode-only)
