@@ -8,16 +8,21 @@
 
 </div>
 
-## Greetings, I'm Angel Aviel Domaoan.
+<details>
+  <summary><h4>About Me</h4></summary>
+  
+  ## Greetings, I'm Angel Aviel Domaoan.
+  
+  I'm a Full Stack Software Developer based in Quezon City, Philippines; who specializes in:
 
-I'm a Full Stack Software Developer based in Quezon City, Philippines; who specializes in:
+  - Developing customized APIs
+  - Engineering infrastructure via containerization services or platforms
+  - Collaborating in open-source projects
+  - Building web systems and applications
+  - Creating mobile applications (iOS and Android)
+  - Reverse engineering softwares, applications and processes
 
-- Developing customized APIs
-- Engineering infrastructure via containerization services or platforms
-- Collaborating in open-source projects
-- Building web systems and applications
-- Creating mobile applications (iOS and Android)
-- Reverse engineering softwares, applications and processes
+</details>
 
 -----
 
