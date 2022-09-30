@@ -9,7 +9,7 @@
 </div>
 
 <details open>
-  <summary>About Me</summary>
+  <summary><b><u>About Me</u></b></summary>
   
   ### Greetings, I'm Angel Aviel Domaoan.
   
@@ -27,7 +27,7 @@
 </details>
 
 <details open>
-  <summary>Achievements</summary>
+  <summary><b><u>Achievements</u></b></summary>
 
   <br>
 
@@ -42,7 +42,7 @@
 </details>
 
 <details open>
-  <summary>Metrics</summary>
+  <summary><b><u>Analytics</u></b></summary>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
