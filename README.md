@@ -68,7 +68,7 @@
 
 -----
 
-[![tenshiAMD's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tenshiAMD&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![tenshiAMD's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tenshiAMD&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 -----
 
