@@ -23,6 +23,8 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake.gif
             dist/github-snake-dark.gif?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       -
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
